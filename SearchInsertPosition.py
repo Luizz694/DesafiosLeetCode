@@ -17,4 +17,5 @@ while i < len(nums):
     i=i+1
 
 print(arm)
+#código está em O(n) :/
 
